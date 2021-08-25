@@ -1,19 +1,21 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Tina Yazdizadeh Personal Web page
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Tina Yazdizadeh
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "M.IT Student @ Carleton University"
+       "Bachelor of Computer Engineering from Tehran University"
+  email: tinayazdizadeh@cmail.carleton.ca
+         yazdizadeh.tina@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: #username
+  linkedin: Tina Yazdizadeh
+  github: tinayzdzd
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
