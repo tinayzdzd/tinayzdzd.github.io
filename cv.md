@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-## Currently
+## Education
 
 Currently I am a Master's student in the field of Information Technology with the specialization of Data Science at Carleton University, Ottawa. Now, I am working on cyber bullying detection in children's email under supervision Prof. Wei Shi.
 
