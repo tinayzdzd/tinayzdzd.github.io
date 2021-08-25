@@ -3,34 +3,31 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Currently I am a Master's student in the field of Information Technology with the specialization of Data Science at Carleton University, Ottawa. Now, I am working on cyber bullying detection in children's email under supervision Prof. Wei Shi.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+` 2011-2015`
+__Salam High School__
+High School, Diploma of Math & Physics,
+Tehran, Iran
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2015-2020`
+__University of Tehran (Ranking #1 in Iran, Rankinf #42 Engineering)__
+B.Sc. Computer Engineering (Software),
+School of Electrical and Computer Engineering,
+College of Engineering,
+Tehran, Iran
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2015`
+Among the first ~1% of the admitted students to the University of Tehran through the
+Iranian Nationwide Entrance Exam (CONQUER) in 2015
 
-## Publications
+`2020`
+Awarded as the Finalist for the Best Undergraduate Thesis in University of Tehran in 2020
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
 
 ### Books
 
