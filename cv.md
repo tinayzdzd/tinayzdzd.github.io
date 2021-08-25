@@ -29,34 +29,21 @@ Iranian Nationwide Entrance Exam (CONQUER) in 2015
 Awarded as the Finalist for the Best Undergraduate Thesis in University of Tehran in 2020
 
 
-### Books
+## Working Experiences
 
-`1994`
-Book Title, Journal Title
+`Summer 2017`
+__Research and Technology Information Management System__, Researcher
+- University of Tehran, Center of Information Technology and Cyberspace
 
-`1994`
-Book Title, Journal Title
+`Fall 2017`
+__Social Behaviors of People Analysis Based on The Records of Phone Conversation__, Researcher
+- University of Tehran, Data Analytics Lab, Under Supervision Prof. Behnam Bahrak
+
+`Summer 2018`
+__Imputation of missing values in Big Data__, Researcher-Summer Internship
+- Carleton University, Digital and Intelligent Information Systems Lab, Under Supervision Prof. Leopolodo Bertossi
 
 
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
 
 
 
