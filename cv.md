@@ -7,7 +7,7 @@ Currently I am a Master's student in the field of Information Technology with th
 
 ## Education
 
-` 2011-2015`
+`2011-2015`
 __Salam High School__
 High School, Diploma of Math & Physics,
 Tehran, Iran
