@@ -8,7 +8,8 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Tina Yazdizadeh
   avatar: bio-photo.jpeg
-  bio: "M.IT Student @ Carleton University, Bachelor of Computer Engineering from Tehran University"
+  bio: "M.IT Student @ Carleton University,  " 
+       "B.Sc. Computer Engineering @ University of Tehran"
   email: tinayazdizadeh@cmail.carleton.ca
   # Do not include the @ symbol in your Twitter username
   twitter: #username
