@@ -8,7 +8,8 @@ excerpt: "Recent Passed Courses"
 `Fall 2020`
 - Data Interaction Techniques
 - [Trends in Big Data Management](http://people.scs.carleton.ca/~ahmedelroby/COMP5118_F20/)
-- Machine Learning (Audit)
+- Machine Learning (Audit)  
+
 `Winter 2021`
 - [Introduction to Data Science](http://people.scs.carleton.ca/~majidkomeili/Teaching/DATA5000-W21/home.html#schedule)
 - Fundamental of Information Technology
