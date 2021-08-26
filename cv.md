@@ -2,20 +2,26 @@
 layout: resume
 ---
 
-Currently I am a Master's student in the field of Information Technology with the specialization of Data Science at Carleton University, Ottawa. I am working on cyber bullying detection in children's email under supervision Prof. Wei Shi.
+Currently I am a Master's student in the field of Information Technology with the specialization of Data Science at Carleton University, Ottawa. I am working on cyber bullying detection in children's email under supervision [Prof. Wei Shi](https://www.csit.carleton.ca/wshi/).
 
 ## Education
 
 `2011-2015`
-__High School__|
+__High School__ 
+
 Salam High School, Diploma of Math & Physics,
+
 Tehran, Iran
 
 `2015-2020`
-__B.Sc. Computer Engineering (Software)__|
+__B.Sc. Computer Engineering (Software)__ 
+
 University of Tehran (Ranking #1 in Iran, Ranking #42 Engineering),
+
 School of Electrical and Computer Engineering,
+
 College of Engineering,
+
 Tehran, Iran
 
 ## Awards
@@ -44,7 +50,9 @@ __Imputation of missing values in Big Data__, Data Scientist
 
 `Fall 2018`
 __Map Matching by using E-Taxies GPS data__, Researcher-Summer Internship
-- [TAPSI Co.](https://en.wikipedia.org/wiki/TAPSI), Data Science and Artificial Intelligence Team
+- [TAPSI Co.](https://en.wikipedia.org/wiki/TAPSI), Data Science and Artificial Intelligence Team  
+
+&#92;* TAPSI Co. is the fastest growing mobile transportation platform in Iran similar to Uber Co.)
 
 ## Teaching Assistant Experiences
 
