@@ -7,12 +7,12 @@ Currently I am a Master's student in the field of Information Technology with th
 ## Education
 
 `2011-2015`
-__High School__
+__High School__|
 Salam High School, Diploma of Math & Physics,
 Tehran, Iran
 
 `2015-2020`
-__B.Sc. Computer Engineering (Software)__
+__B.Sc. Computer Engineering (Software)__|
 University of Tehran (Ranking #1 in Iran, Ranking #42 Engineering),
 School of Electrical and Computer Engineering,
 College of Engineering,
