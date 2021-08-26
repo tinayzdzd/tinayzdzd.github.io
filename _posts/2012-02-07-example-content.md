@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example content
-excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
+title: Collaboration in Contact Tracing System(CTS) Project
+excerpt: "This is my first collaboration with Prof. Wei Shi"
+modified: 8/25/2021, 15:39:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
