@@ -73,7 +73,7 @@ __Carleton University, School of Information Technology__
 
 ## Computer Skills
 
-- Python(professional), C, C++, R
+- Python(professional), R, C, C++
 - Apache Nifi, Apache Spark, Tensorflow, PyTorch
 - Scikit-Learn, NLTK
 - Familiar with JAVA
