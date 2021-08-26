@@ -2,13 +2,13 @@
 
 title: Tina Yazdizadeh Personal Web page
 locale: en_US
-logo: # filename
+logo: # filename of the logo
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Tina Yazdizadeh
   avatar: Tina.jpeg
-  bio: "M.IT Student @ Carleton University,  B.Sc. Computer Engineering @ University of Tehran" 
+  bio: "M.IT. Student @ Carleton University,  B.Sc. Computer Engineering @ University of Tehran" 
   email: tinayazdizadeh@cmail.carleton.ca
   # Do not include the @ symbol in your Twitter username
   twitter: #username
