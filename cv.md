@@ -46,7 +46,7 @@ __Imputation of missing values in Big Data__, Data Scientist
 __Map Matching by using E-Taxies GPS data__, Researcher-Summer Internship
 - [TAPSI Co.](https://en.wikipedia.org/wiki/TAPSI), Data Science and Artificial Intelligence Team  
 
-&#92;*TAPSI Co. is the fastest growing mobile transportation platform in Iran similar to Uber Co.)
+*TAPSI Co. is the fastest growing mobile transportation platform in Iran similar to Uber Co.)
 
 ## Teaching Assistant Experiences
 
