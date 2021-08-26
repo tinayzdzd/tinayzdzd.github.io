@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Collaboration in Contact Tracing System(CTS) Project
-excerpt: "This is my first collaboration with Prof. Wei Shi"
+title: Example
+excerpt: "Example"
 modified: 8/25/2021, 15:39:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
