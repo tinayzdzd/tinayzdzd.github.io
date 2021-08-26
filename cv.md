@@ -2,7 +2,8 @@
 layout: resume
 ---
 
-Currently I am a Master's student in the field of Information Technology with the specialization of Data Science at Carleton University, Ottawa. I am working on cyber bullying detection in children's email under supervision [Prof. Wei Shi](https://www.csit.carleton.ca/wshi/).
+Currently I am a Master's student in the field of Information Technology with the specialization of Data Science at Carleton University, Ottawa. I am working on cyber bullying detection in children's email under supervision [Prof. Wei Shi](https://www.csit.carleton.ca/wshi/).  
+[Click to download my full CV](assest/CV.pdf)
 
 ## Education
 
