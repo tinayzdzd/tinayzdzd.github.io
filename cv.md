@@ -7,13 +7,13 @@ Currently I am a Master's student in the field of Information Technology with th
 ## Education
 
 `2011-2015`
-__Salam High School__
-High School, Diploma of Math & Physics,
+__High School__
+Salam High School, Diploma of Math & Physics,
 Tehran, Iran
 
 `2015-2020`
-__University of Tehran (Ranking #1 in Iran, Rankinf #42 Engineering)__
-B.Sc. Computer Engineering (Software),
+__B.Sc. Computer Engineering (Software)__
+University of Tehran (Ranking #1 in Iran, Ranking #42 Engineering),
 School of Electrical and Computer Engineering,
 College of Engineering,
 Tehran, Iran
@@ -39,10 +39,12 @@ __Social Behaviors of People Analysis Based on The Records of Phone Conversation
 - University of Tehran, Data Analytics Lab, Under Supervision Prof. Behnam Bahrak
 
 `Summer 2018`
-__Imputation of missing values in Big Data__, Researcher-Summer Internship
+__Imputation of missing values in Big Data__, Data Scientist
 - Carleton University, Digital and Intelligent Information Systems Lab, Under Supervision Prof. Leopolodo Bertossi
 
-
+`Fall 2018`
+__Map Matching by using E-Taxies GPS data__, Researcher-Summer Internship
+- [TAPSI Co.](https://en.wikipedia.org/wiki/TAPSI), Data Science and Artificial Intelligence Team
 
 
 
