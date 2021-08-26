@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-Currently I am a Master's student in the field of Information Technology with the specialization of Data Science at Carleton University, Ottawa. Now, I am working on cyber bullying detection in children's email under supervision Prof. Wei Shi.
+Currently I am a Master's student in the field of Information Technology with the specialization of Data Science at Carleton University, Ottawa. I am working on cyber bullying detection in children's email under supervision Prof. Wei Shi.
 
 ## Education
 
@@ -31,7 +31,7 @@ Awarded as the Finalist for the Best Undergraduate Thesis in University of Tehra
 ## Working Experiences
 
 `Summer 2017`
-__Research and Technology Information Management System__, Researcher
+__Research and Technology Information Management System__, Developer
 - University of Tehran, Center of Information Technology and Cyberspace
 
 `Fall 2017`
@@ -45,6 +45,38 @@ __Imputation of missing values in Big Data__, Data Scientist
 `Fall 2018`
 __Map Matching by using E-Taxies GPS data__, Researcher-Summer Internship
 - [TAPSI Co.](https://en.wikipedia.org/wiki/TAPSI), Data Science and Artificial Intelligence Team
+
+## Teaching Assistant Experiences
+
+`2015-2020`
+__University of Tehran, School of Electrical and Computer Engineering__
+- Teaching Assistant, Computer Network
+- Teaching Assistant, Probability and Statistics
+- Teaching Assistant, Compiler Design and Programming Languages
+- Teaching Assistant, Human Computer Interaction
+- Chief Teaching Assistant, Discrete Mathematics
+- Teaching Assistant, Introduction to Computing Systems and Programming
+
+`2020-Present`
+__Carleton University, School of Information Technology__
+- Teaching Assistant, Software Design for Multimedia
+- Teaching Assistant, Real Time Systems
+- Teaching Assistant, Data Structure
+
+## Computer Skills
+
+- Python(professional), C, C++, R
+- Apache Nifi, Apache Spark, Tensorflow, PyTorch
+- Scikit-Learn, NLTK
+- Familiar with JAVA
+
+## Languages
+
+- Persian (Native)
+- English (Professional)
+- French (Professional)
+- Chinese (Beginner)
+- Arabic (Beginner)
 
 
 
