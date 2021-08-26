@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: News Posts
+title: News about Me
 ---
 
 
