@@ -32,7 +32,7 @@ Awarded as the Finalist for the __Best Undergraduate Thesis__ in the University 
 ## Working Experiences
 
 `Summer 2017`
-__Research and Technology Information Management System__, Developer
+__Research and Technology Information Management System__, Developer,
 - University of Tehran, Center of Information Technology and Cyberspace
 
 `Fall 2017`
@@ -40,16 +40,21 @@ __Social Behaviors of People Analysis Based on The Records of Phone Conversation
 - University of Tehran, Data Analytics Lab, Under Supervision Prof. Behnam Bahrak
 
 `Summer 2018`
-__Imputation of missing values in Big Data__, Data Scientist
+__Imputation of missing values in Big Data__, Researcher-Summer Internship,
 - Carleton University, Digital and Intelligent Information Systems Lab, Under Supervision Prof. Leopolodo Bertossi
 
 `Fall 2018`
-__Map Matching by using E-Taxies GPS data__, Researcher-Summer Internship
+__Map Matching by using E-Taxies GPS data__, Data Scientist,
 - [TAPSI Co.](https://en.wikipedia.org/wiki/TAPSI), Data Science and Artificial Intelligence Team  
 
 *TAPSI Co. is the fastest growing mobile transportation platform in Iran similar to Uber Co.)
 
-__Implementing a Data Pipeline for Vessels’ Positioning Data Ingestion__, Developer
+`Winter 2020`
+__[Contact Tracing System (CTS) for Covid-19](https://covidcts.carleton.ca/)__, Developer,
+- Carleton University, School of Information Technology, Under Supervision of Prof. Wei Shi
+
+`Fall 2020`
+__Implementing a Data Pipeline for Vessels’ Positioning Data Ingestion__, Developer,
 - Carleton University, School of Information Technology, Under Supervision of Prof. Wei Shi
 
 ## Teaching Assistant Experiences
