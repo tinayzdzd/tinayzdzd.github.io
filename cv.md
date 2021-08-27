@@ -14,7 +14,7 @@ Tehran, Iran
 
 `2015-2020`
 __B.Sc. Computer Engineering (Software)__   
-University of Tehran (Ranking #1 in Iran, Ranking #42 Engineering),  
+University of Tehran ([Ranking #1 in Iran, Ranking #33 Engineering](https://www.usnews.com/education/best-global-universities/university-of-tehran-504903)),  
 School of Electrical and Computer Engineering,  
 College of Engineering,  
 Tehran, Iran
@@ -26,7 +26,7 @@ Among the first ~1% of the admitted students to the University of Tehran through
 Iranian Nationwide Entrance Exam (CONQUER) in 2015
 
 `2020`
-Awarded as the Finalist for the Best Undergraduate Thesis in University of Tehran in 2020
+Awarded as the Finalist for the __Best Undergraduate Thesis__ in the University of Tehran in 2020
 
 
 ## Working Experiences
@@ -48,6 +48,9 @@ __Map Matching by using E-Taxies GPS data__, Researcher-Summer Internship
 - [TAPSI Co.](https://en.wikipedia.org/wiki/TAPSI), Data Science and Artificial Intelligence Team  
 
 *TAPSI Co. is the fastest growing mobile transportation platform in Iran similar to Uber Co.)
+
+__Implementing a Data Pipeline for Vessels’ Positioning Data Ingestion__, Developer
+- Carleton University, School of Information Technology, Under Supervision of Prof. Wei Shi
 
 ## Teaching Assistant Experiences
 
