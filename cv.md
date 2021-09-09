@@ -28,6 +28,9 @@ Iranian Nationwide Entrance Exam (CONQUER) in 2015
 `2020`
 Awarded as the Finalist for the __Best Undergraduate Thesis__ in the University of Tehran in 2020
 
+`2021`
+Participant as an Intern in Strategic Collaboration Agreement between __Ericsson Canada Inc.__ and __Carleton University__ in 2021
+
 
 ## Working Experiences
 
