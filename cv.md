@@ -3,7 +3,7 @@ layout: resume
 ---
 
 Currently I am advanced technical support engineer at Ciena Co.
-<a id="raw-url" href="https://raw.githubusercontent.com/tinayzdzd/tinayzdzd.github.io/master/CV-PhD-TinaYazdizadeh.pdf">Click here to download my full CV</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/tinayzdzd/tinayzdzd.github.io/master/Tina_s_CV.pdf">Click here to download my full CV</a>
 
 ## Education
 
