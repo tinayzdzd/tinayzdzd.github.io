@@ -7,7 +7,7 @@ Currently I am advanced technical support engineer at Ciena Co.
 
 ## Education
 
-`2015-2020`
+`2020-2022`
 __M.IT. Information Technology(Data Science)__   
 Carleton University,
 School of Information Technology,  
@@ -67,6 +67,10 @@ __[Contact Tracing System (CTS) for Covid-19](https://covidcts.carleton.ca/)__, 
 __Implementing a Data Pipeline for Vessels’ Positioning Data Ingestion__, Developer,
 - Carleton University, School of Information Technology, Under Supervision of Prof. Wei Shi
 
+`Winter 2021-Present`
+__Involved with fact finding, fault detection in huge networks__, Advanced Technical Support Engineer,
+- Ciena Co., Ottawa, Ontario, Canada
+
 ## Teaching Assistant Experiences
 
 `2015-2020`
@@ -90,6 +94,7 @@ __Carleton University, School of Information Technology__
 - Apache Nifi, Apache Spark, Tensorflow, PyTorch
 - Scikit-Learn, NLTK
 - Familiar with JAVA
+- Bash, Git
 
 ## Languages
 
