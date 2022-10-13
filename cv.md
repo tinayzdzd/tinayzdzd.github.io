@@ -2,21 +2,28 @@
 layout: resume
 ---
 
-Currently I am a Master's student in the field of Information Technology with the specialization of Data Science at Carleton University, Ottawa. I am working on cyber bullying detection in children's email under supervision [Prof. Wei Shi](https://www.csit.carleton.ca/wshi/).  
+Currently I am advanced technical support engineer at Ciena Co.
 <a id="raw-url" href="https://raw.githubusercontent.com/tinayzdzd/tinayzdzd.github.io/master/CV-PhD-TinaYazdizadeh.pdf">Click here to download my full CV</a>
 
 ## Education
 
-`2011-2015`
-__High School__   
-Salam High School, Diploma of Math & Physics,  
-Tehran, Iran
+`2015-2020`
+__M.IT. Information Technology(Data Science)__   
+Carleton University,
+School of Information Technology,  
+Ottawa, Ontario, Canada, 
+Supervisor: [Prof. Wei Shi](https://www.csit.carleton.ca/wshi/)
 
 `2015-2020`
 __B.Sc. Computer Engineering (Software)__   
 University of Tehran ([Ranking #1 in Iran, Ranking #33 Engineering](https://www.usnews.com/education/best-global-universities/university-of-tehran-504903)),  
 School of Electrical and Computer Engineering,  
 College of Engineering,  
+Tehran, Iran
+
+`2011-2015`
+__High School__   
+Salam High School, Diploma of Math & Physics,  
 Tehran, Iran
 
 ## Awards
